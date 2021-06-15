@@ -1,0 +1,321 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051; 
+}
+.logo{
+    color: #fff;
+    font-size: 25px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+.menu{
+    float: left;
+    padding-left: 428px;
+}
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url("../img/2.png") 100% 100%/auto 90% no-repeat  ,url("../img/bg.jpg") center/cover no-repeat;
+}
+.titel__container{
+    float: left;
+    margin: 350px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+.titel__container>h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.titel__container>h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;
+}
+.titel__container>input{
+    height: 60px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 26px;
+    padding: 0px 16px;
+    margin: 58px 14px;
+}
+.me{
+    background: url("../img/d.jpg") center 10% no-repeat, url("../img/boy.jpg") center 30%/250px no-repeat;
+   height: 710px;
+    width: 100%;
+    color: #fcfdfd;
+}
+.titel__container2{
+    text-align: center; 
+}
+.titel__container2>h2{
+    margin-top: 110px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #263244;
+    margin-bottom: 320px;
+}
+.titel__container2>p{
+    color: #737984;
+    font-size: 15px;
+    text-align: left;
+    margin: 40px 597px 0px 597px;
+}
+.titel__container2>input{
+    height: 60px;
+    text-align: left;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 8px;
+    color: #6d7682;
+    font-size: 20px;
+    padding: 0px 10px 0px 50px;
+    margin: 58px 14px;
+    background: url("../img/icon.jpg") 10px center/30px no-repeat;
+}
+.MySkills{
+    width: 100%;
+    height: 522px;
+    background: url("../img/d.jpg") center 35% no-repeat, url("../img/ms.jpg") center/cover no-repeat; 
+}
+.titel__container3{
+    text-align: center;
+}
+.titel__container3>h2{
+    padding: 110px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #263244;
+}
+.skill>h5{
+    padding: 0px 200px;
+}
+.case{
+    width: 100%;
+    height: 1150px;
+    color: #fcfdfd;
+    background: url("../img/d.jpg") center 16% no-repeat;
+}
+.title__container4{
+    text-align: center;
+}
+.title__container4>h2{
+    padding: 110px 0px 72px 0px;
+    color: #263244;
+    font-size: 40px;
+    font-weight: bold;
+}
+.title__container4>span{
+    color: #3f495a;
+    font-size: 16px;
+}
+
+.title__container4>img{
+    padding: 45px 0px 0px 0px;
+    width: 1168px;
+    height: 620px;
+}
+.title__container4>h3{
+    color: #384354;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    padding: 0px 0px 0px 415px;
+}
+.title__container4>h5{
+    color: #384354;
+    font-size: 16px;
+    text-align: left;
+    padding: 20px 0px 20px 415px;
+}
+.title__container4>a{
+    float: left;
+    color: #384354;
+    font-size: 16px;
+    text-align: left;
+    padding: 20px 0px 20px 415px;
+}
+.title__container4>h4{
+   color: #384354;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 200px;
+    padding: 60px 0px 20px 415px;
+}
+.title__container4>p{
+    color: #384354;
+    font-size: 16px;
+    text-align: left;
+    padding: 0px 0px 0px 415px;
+}
+.money{
+    width: 100%;
+    height: 1000px;
+    color: #fcfdfd;
+background: url("../img/d.jpg") center 18% no-repeat, url("../img/line.jpg") center 75%/892px no-repeat; 
+}
+.title__container5{
+    text-align: center;
+}
+.title__container5>h2{
+    padding: 110px 0px 72px 0px;
+    color: #263244;
+    font-size: 40px;
+    font-weight: bold;
+}
+.title__container5>h3{
+    text-align: left;
+    color: #1c2534;
+    font-size: 35px;
+    padding: 50px 0px 23px 495px;
+    font-weight: 300;
+}
+select{
+    width: 892px;
+    height: 58px;
+    background: #eeeeee;
+    font-size: 20px;
+    color: #737373;
+}
+.title__container5>h4{
+    color: #1c2534;
+    font-size: 25px;
+    text-align: left;
+    padding: 55px 0px 0px 505px;
+} 
+.title__container5>span{
+    color: #1c2534;
+    font-size: 25px;
+    text-align: left;
+    padding: 0px 0px 0px 870px; 
+}
+.stats{
+    width: 100%;
+    height: 496px;
+    background: url("../img/d.jpg") center 37% no-repeat, url("../img/fon.jpg") center/cover no-repeat;
+    float: left;
+}
+.title__container6{
+    text-align: center;
+}
+.title__container6>h2{
+    padding: 110px 0px 72px 0px;
+    color: #263244;
+    font-size: 40px;
+    font-weight: bold;
+}
+.title__container6>h3{
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+    margin: 70px 0px 0px 400px;
+}
+.title__container6>h5{
+    float: left;
+    font-size: 20px;
+    text-align: left;
+    padding: 150px 0px 0px 0px;
+}
+.review{
+    width: 100%;
+    height: 595px;
+    float: left;
+    background: url("../img/d.jpg") center 31% no-repeat, url("../img/far.jpg") center 50%/110px no-repeat, url("../img/orang.jpg") 920px 500px no-repeat, url("../img/orang1.jpg") 945px 500px no-repeat, url("../img/orang2.jpg") 970px 500px no-repeat;
+}
+.title__container7{
+    text-align: center;
+}
+.title__container7>h2{
+    padding: 110px 0px 72px 0px;
+    color: #263244;
+    font-size: 40px;
+    font-weight: bold;
+}
+.title__container7>p{
+    padding: 175px 0px 0px 0px;
+    color: #3e4755;
+}
+.title__container7>h5{
+    padding: 45px 0px 0px 0px;
+    color: #3e4755;
+}
+.MyContacts{
+    width: 100%;
+    height: 810px;
+    float: left;
+    background: url("../img/footer.png") no-repeat;
+}
+.title__container8{
+    float: left;
+    color: #ffffff;
+}
+.title__container8>h2{
+    margin: 105px 0px 0px 847px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.title__container8>p{
+    text-align: center;
+    margin: 70px 671px 88px 671px;
+}
+.contacts{
+    text-align: center;
+    float: left;
+    margin: 0px 0px 0px 650px;
+}
+.contacts>li{
+    float: left;
+    padding: 0px 150px 0px 0px;
+}
+.contacts>h3{
+    float: none;
+    margin: 200px 150px 100px 0px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
